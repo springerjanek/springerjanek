@@ -1,4 +1,4 @@
-# Jan
+# Janek
 
 **`Super chilled-out dude 😎`**
 
