@@ -26,4 +26,4 @@ I'm currently learning Typescript to widen my front-end knowledge and make my JS
 
 ### 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=perke1&show_icons=true&count_private=true&hide=prs,stars)
+![Stats](https://github-readme-stats.vercel.app/api?username=springerjanek&show_icons=true&count_private=true&hide=prs,stars)
