@@ -2,7 +2,7 @@
 
 **`Web Developer 😎`**
 
-I'm currently learning Typescript and Accessibility to widen my front-end knowledge and make my JS coding more pleasure, aside from that I'm currently working on my shoe market platform [App](https://github.com/Perke1/PerkeX) and some other small projects to freshen up my mind.
+I'm currently learning Typescript and Accessibility to widen my front-end knowledge and make my coding more pleasure, aside from that I'm currently working on my real-time shoe market platform [App](https://github.com/Perke1/PerkeX) and some other small projects to freshen up my mind.
 
 ---
 
