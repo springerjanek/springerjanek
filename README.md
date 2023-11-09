@@ -5,7 +5,7 @@
 I'm currently learning about Typescript and AI to widen my front-end knowledge and make my coding even more pleasure. I find AI stuff very interesting and diversifying my future projects.
 Aside from that I'm currently working on my pinned projects and on my physical shape.
 
-Check out my new [article](https://medium.com/@springerjanek/moving-from-axios-to-react-query-in-react-apps-833eec667f15) about moving from Axios to React Query!
+Check out my [article](https://medium.com/@springerjanek/moving-from-axios-to-react-query-in-react-apps-833eec667f15) about moving from Axios to React Query!
 
 ---
 
