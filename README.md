@@ -2,7 +2,7 @@ Hello, I'm Jan :)
 
 **`Web Developer 😎`**
 
-I'm currently learning about Typescript and AI to widen my front-end knowledge and make my coding even more pleasure. I find AI stuff very interesting and diversifying my future projects.
+I'm currently learning React Native to widen my front-end knowledge and make my coding even more pleasure. I find AI stuff very interesting and diversifying my future projects.
 Aside from that I'm currently working on my pinned projects and on my physical shape.
 
 Check out my [article](https://medium.com/@springerjanek/mocking-supabase-auth-in-react-app-ea2ba2c78c94) about mocking supabase auth session!
