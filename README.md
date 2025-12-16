@@ -27,4 +27,4 @@ Check out my [article](https://medium.com/@springerjanek/mocking-supabase-auth-i
 
 #
 
-![Janek's GitHub stats](https://github-readme-stats.vercel.app/api?username=springerjanek&include_all_commits=true&theme=aura)
+![Janek's GitHub stats](https://github-readme-stats.vercel.app/api?username=springerjanek&show_icons=true&theme=transparent\&rank_icon=github)
