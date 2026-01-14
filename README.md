@@ -2,10 +2,10 @@ Hello, I'm Jan :)
 
 **`Web Developer 😎`**
 
-I'm currently pursuing CS degree at University of Gdansk. I find WEB3, AI and active lifestyle very interesting.
+I'm currently pursuing CS degree and expanding my tech stack with React Native + Nest.js. I find WEB3, AI and active lifestyle very interesting.
 If you have interesting projects or stuff to tell me about, don't wait and shoot a message!!
 
-Check out my [article](https://medium.com/@springerjanek/mocking-supabase-auth-in-react-app-ea2ba2c78c94) about mocking supabase auth session!
+Check out my [article](https://medium.com/@springerjanek/mocking-supabase-auth-in-react-app-ea2ba2c78c94) about mocking supabase auth session! (More content on the way)
 
 ---
 
